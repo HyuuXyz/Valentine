@@ -1,0 +1,22 @@
+{
+  "name": "my-romantic-valentine",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.0.18",
+    "framer-motion": "^10.16.1",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "^3.4.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.30"
+  }
+}
