@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import Sparkles from "../components/Sparkles";
-import { HeartIcon } from "@heroicons/react/solid";
+import { HeartIcon } from "@heroicons/react/24/solid";
 
 export default function Home() {
   return (
